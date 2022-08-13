@@ -19,7 +19,7 @@ I am a Frontend React Developer from St.Petersburg, Russia.
 - <a href="https://telegram.me/svetdmi"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
  </a>
  
--:ballot_box_with_check: I would be glad to work with a more experienced programmer on any project. (I need a mentor and self-confidence :ok_woman:)
+:ballot_box_with_check: I would be glad to work with a more experienced programmer on any project. (I need a mentor and self-confidence :ok_woman:)
  
 <div align="center">
   <img  src="https://media.giphy.com/media/12KPpBIdG8kqIg/giphy.gif"/>
