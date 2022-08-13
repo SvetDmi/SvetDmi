@@ -18,10 +18,9 @@ I am a Frontend React Developer from St.Petersburg, Russia.
 
 - :mailbox: svedlana2012@gmail.com
 
-<div id="badges">
-  <a href="https://telegram.me/svetdmi"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+- <a href="https://telegram.me/svetdmi"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
  </a>
-</div>
+
 
 ---
 
