@@ -12,7 +12,7 @@ I am a Frontend React Developer from St.Petersburg, Russia.
 
 - :seedling: 2 years ago I started studying programming (HTML, CSS, JS, React, Node) and now I create websites myself.
 
-- :zap: In my free time, I continue to study the frontend and a little backend for creating websites (else more JS, React, Node and Sass, TypeScript).
+- :zap: In my free time, I continue to study (else more JS, React, Node and Sass, TypeScript).
 
 - :mailbox: svedlana2012@gmail.com
 
