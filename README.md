@@ -1,16 +1,14 @@
-<div id="header" align="center">
-  
+<div id="header" align="center">  
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/8IfLqeprcAOq0rZn0G/giphy.gif" width="30px"/>
 </h1>
-
 </div>
 
 ### :woman_technologist: About Me :
 I am a Frontend React Developer from St.Petersburg, Russia.
 
-- :telescope: I have been a journalist for 25 years, and for the last 10 years I have been an editor of online-media. 
+- :telescope: I have been a journalist for 20 years, and for the last 10 years I have been an editor of online-media. 
 
 - :seedling: 2 years ago I started studying programming and now I create websites myself
 
@@ -20,11 +18,10 @@ I am a Frontend React Developer from St.Petersburg, Russia.
 
 - <a href="https://telegram.me/svetdmi"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
  </a>
----
+ 
 <div align="center">
   <img  src="https://media.giphy.com/media/12KPpBIdG8kqIg/giphy.gif"/>
 </div>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
