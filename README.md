@@ -10,9 +10,9 @@ I am a Frontend React Developer from St.Petersburg, Russia.
 
 - :telescope: I have been a journalist for 20 years, and for the last 10 years I have been an editor of online-media. 
 
-- :seedling: 2 years ago I started studying programming (HTML, CSS, JS, React< Node) and now I create websites myself.
+- :seedling: 2 years ago I started studying programming (HTML, CSS, JS, React, Node) and now I create websites myself.
 
-- :zap: In my free time, I continue to study the frontend and a little backend for creating websites (else more JS< React, Node and TypeScript).
+- :zap: In my free time, I continue to study the frontend and a little backend for creating websites (else more JS, React, Node and Sass, TypeScript).
 
 - :mailbox: svedlana2012@gmail.com
 
