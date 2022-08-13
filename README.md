@@ -10,14 +10,16 @@ I am a Frontend React Developer from St.Petersburg, Russia.
 
 - :telescope: I have been a journalist for 20 years, and for the last 10 years I have been an editor of online-media. 
 
-- :seedling: 2 years ago I started studying programming and now I create websites myself
+- :seedling: 2 years ago I started studying programming (HTML, CSS, JS, React< Node) and now I create websites myself.
 
-- :zap: In my free time, I continue to study the frontend and a little backend for creating websites
+- :zap: In my free time, I continue to study the frontend and a little backend for creating websites (else more JS< React, Node and TypeScript).
 
 - :mailbox: svedlana2012@gmail.com
 
 - <a href="https://telegram.me/svetdmi"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
  </a>
+ 
+-:ballot_box_with_check: I would be glad to work with a more experienced programmer on any project. (I need a mentor and self-confidence :ok_woman:)
  
 <div align="center">
   <img  src="https://media.giphy.com/media/12KPpBIdG8kqIg/giphy.gif"/>
